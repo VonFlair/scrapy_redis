@@ -1,0 +1,7 @@
+
+scrapy
+scrapy-redis
+celery
+redis
+redisbloom
+requests
